@@ -3,7 +3,7 @@ def my_hash
     "Head Surgeon" => "Hawkeye",
     "Ferret-Face" => "Burns",
     "Family Man" => "Hunnicut",
-    "Company Clerk" => "Radar O'Reilly"
+    "Company Clerk" => "Radar O'Reilly",
     "Commanding Officer" => "Colonel Potter"
   }
 end
