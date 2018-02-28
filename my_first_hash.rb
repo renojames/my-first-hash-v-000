@@ -6,8 +6,6 @@ def my_hash
     "Company Clerk" => "Radar O'Reilly"
     "Commanding Officer" => "Colonel Potter"
   }
-
-  
 end
 
 
